@@ -1,0 +1,14 @@
+D:\progra\Laboratorio\GestorbiblioDemo\Gestorbiblio\bin\Debug\net8.0\Gestorbiblio.exe
+D:\progra\Laboratorio\GestorbiblioDemo\Gestorbiblio\bin\Debug\net8.0\Gestorbiblio.deps.json
+D:\progra\Laboratorio\GestorbiblioDemo\Gestorbiblio\bin\Debug\net8.0\Gestorbiblio.runtimeconfig.json
+D:\progra\Laboratorio\GestorbiblioDemo\Gestorbiblio\bin\Debug\net8.0\Gestorbiblio.dll
+D:\progra\Laboratorio\GestorbiblioDemo\Gestorbiblio\bin\Debug\net8.0\Gestorbiblio.pdb
+D:\progra\Laboratorio\GestorbiblioDemo\Gestorbiblio\obj\Debug\net8.0\Gestorbiblio.GeneratedMSBuildEditorConfig.editorconfig
+D:\progra\Laboratorio\GestorbiblioDemo\Gestorbiblio\obj\Debug\net8.0\Gestorbiblio.AssemblyInfoInputs.cache
+D:\progra\Laboratorio\GestorbiblioDemo\Gestorbiblio\obj\Debug\net8.0\Gestorbiblio.AssemblyInfo.cs
+D:\progra\Laboratorio\GestorbiblioDemo\Gestorbiblio\obj\Debug\net8.0\Gestorbiblio.csproj.CoreCompileInputs.cache
+D:\progra\Laboratorio\GestorbiblioDemo\Gestorbiblio\obj\Debug\net8.0\Gestorbiblio.dll
+D:\progra\Laboratorio\GestorbiblioDemo\Gestorbiblio\obj\Debug\net8.0\refint\Gestorbiblio.dll
+D:\progra\Laboratorio\GestorbiblioDemo\Gestorbiblio\obj\Debug\net8.0\Gestorbiblio.pdb
+D:\progra\Laboratorio\GestorbiblioDemo\Gestorbiblio\obj\Debug\net8.0\Gestorbiblio.genruntimeconfig.cache
+D:\progra\Laboratorio\GestorbiblioDemo\Gestorbiblio\obj\Debug\net8.0\ref\Gestorbiblio.dll
