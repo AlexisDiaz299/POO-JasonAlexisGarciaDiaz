@@ -1,0 +1,14 @@
+D:\progra\Laboratorio\Administrar citass medicasDemo\Administrar citass medicas\bin\Debug\net8.0\Administrar citass medicas..exe
+D:\progra\Laboratorio\Administrar citass medicasDemo\Administrar citass medicas\bin\Debug\net8.0\Administrar citass medicas..deps.json
+D:\progra\Laboratorio\Administrar citass medicasDemo\Administrar citass medicas\bin\Debug\net8.0\Administrar citass medicas..runtimeconfig.json
+D:\progra\Laboratorio\Administrar citass medicasDemo\Administrar citass medicas\bin\Debug\net8.0\Administrar citass medicas..dll
+D:\progra\Laboratorio\Administrar citass medicasDemo\Administrar citass medicas\bin\Debug\net8.0\Administrar citass medicas..pdb
+D:\progra\Laboratorio\Administrar citass medicasDemo\Administrar citass medicas\obj\Debug\net8.0\Administrar citass medicas..GeneratedMSBuildEditorConfig.editorconfig
+D:\progra\Laboratorio\Administrar citass medicasDemo\Administrar citass medicas\obj\Debug\net8.0\Administrar citass medicas..AssemblyInfoInputs.cache
+D:\progra\Laboratorio\Administrar citass medicasDemo\Administrar citass medicas\obj\Debug\net8.0\Administrar citass medicas..AssemblyInfo.cs
+D:\progra\Laboratorio\Administrar citass medicasDemo\Administrar citass medicas\obj\Debug\net8.0\Administrar citass medicas..csproj.CoreCompileInputs.cache
+D:\progra\Laboratorio\Administrar citass medicasDemo\Administrar citass medicas\obj\Debug\net8.0\Administrar citass medicas..dll
+D:\progra\Laboratorio\Administrar citass medicasDemo\Administrar citass medicas\obj\Debug\net8.0\refint\Administrar citass medicas..dll
+D:\progra\Laboratorio\Administrar citass medicasDemo\Administrar citass medicas\obj\Debug\net8.0\Administrar citass medicas..pdb
+D:\progra\Laboratorio\Administrar citass medicasDemo\Administrar citass medicas\obj\Debug\net8.0\Administrar citass medicas..genruntimeconfig.cache
+D:\progra\Laboratorio\Administrar citass medicasDemo\Administrar citass medicas\obj\Debug\net8.0\ref\Administrar citass medicas..dll
